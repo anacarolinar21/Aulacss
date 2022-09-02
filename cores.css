@@ -1,0 +1,30 @@
+h1,h2 {
+    
+    color: #c505ff;
+    text-align: center;
+    font-size: 3em;
+}
+
+body {
+    
+    color: #f17fb8;
+    background-color: #000031;
+    /*font-family: 'Times New Roman', Times, serif;*/
+    font-size: 18px;
+
+}
+
+strong {
+    
+    color: #00ffbf;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+
+}
+
+.diferente {
+
+    text-align: justify;
+
+}
